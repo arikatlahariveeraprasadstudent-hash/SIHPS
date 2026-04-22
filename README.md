@@ -179,7 +179,5 @@ This system provides a **scalable, secure, and efficient solution** for disaster
 ---
 
 ## 📷 Architecture Diagram
-
-> Add your architecture diagram image here  
-```html
+ 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4ab6c5a4-9d96-4ec8-9634-cef0a86d2277" />
